@@ -1,2 +1,2 @@
-# mta-sts.skipr.co-
+# skipr
 Subdomain Takeover
